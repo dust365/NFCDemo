@@ -10,11 +10,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 类名 NfcMessageParser
- * 作者 dy
- * 功能
- * 创建日期 2017/3/14 15:54
- * 修改日期 2017/3/14 15:54
+ * @author dust
+ * @function  NFc解析NFC信息
+ * @created at 2018/1/13
  */
 
 
